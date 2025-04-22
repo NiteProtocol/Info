@@ -10,11 +10,12 @@ It is intended to provide clear, consistent usage guidelines for anyone designin
 * **Core Attributes:** Permissionless, Autonomous, Open-Source
 * **Tone of Voice:** Spartan, succinct, concise
 
-## Logo Usage
+## Logo
 
-The **Primary Logo** is: 
-* Wordmark only (horizontal layout preferred).
-* Available in black and white versions (SVG and PNG).
+* [Nite Protocol Logo (PNG)](https://github.com/NiteProtocol/Info/blob/main/Brand/Nite-Logo.png)
+* [Nite Protocol Logo (SVG)](https://github.com/NiteProtocol/Info/blob/main/Brand/Nite-Logo.svg)
+* [Nite Protocol Wordmark (PNG)](https://github.com/NiteProtocol/Info/blob/main/Brand/Nite-Wordmark.png)
+* [Nite Protocol Wordmark (SVG)](https://github.com/NiteProtocol/Info/blob/main/Brand/Nite-Wordmark.svg)
 
 Do: 
 * Always maintain clear space equal to the height of the letter “N” around the logo.
