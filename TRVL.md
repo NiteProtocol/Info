@@ -1,4 +1,6 @@
-<img width="607" alt="TRVL" src="https://github.com/user-attachments/assets/40334296-d810-4c0c-92ec-052a151ebc27" />
+<img width="300" alt="TRVL" src="https://github.com/user-attachments/assets/40334296-d810-4c0c-92ec-052a151ebc27" />
+
+--
 
 **TRVL** is a utility token for the Nite Protocol and a currency for the travel industry.
 
