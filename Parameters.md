@@ -2,7 +2,7 @@
 
 The Nite Protocol and the TRVL Tokenomics have a few parameters that can be updated and changed over time.
 
-This document lists all these parameters of the Nite Protocol and how they can be updated.
+This document lists all these parameters and how they can be updated.
 
 
 ## Nite Protocol's Smart Contract Parameters
