@@ -29,7 +29,7 @@ These parameters are not encoded in smart contracts. They relate to management o
 | ---                                                 | ---                                                             | 
 | Community Treasury Unlocking Delay                  | 1 month                                                         | 
 | Community Treasury Maximum Unlocking Rate           | 5% of the Community Treasury's current balance per year         |
-| Growth Fund Release Schedule                        | 100 TRVL per new property                                       |
+| Growth Fund Release Schedule                        | 100 TRVL per qualified new property                             |
 | Minimum booking value to qualify as a new property  | 2000 TRVL                                                       |
 
 The TRVL Foundation shall consult TRVL holders regarding updates of these parameters. 
