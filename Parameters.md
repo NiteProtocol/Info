@@ -25,11 +25,12 @@ If there is demand and resources, on-chain governance mechanisms to allow TRVL h
 
 These parameters are not encoded in smart contracts. They relate to management of the TRVL funds under the comtrol of the TRVL Foundation.
 
-| Parameter                                     | Value                                                           |
-| ---                                           | ---                                                             | 
-| Community Treasury Unlocking Delay            | 1 month                                                         | 
-| Community Treasury Maximum Unlocking Rate     | 5% of the Community Treasury's current balance per year         |
-| Growth Fund Release Schedule                  | 100 TRVL per New Property that receives at least 1 booking with value greater than 2000 TRVL              |
+| Parameter                                           | Value                                                           |
+| ---                                                 | ---                                                             | 
+| Community Treasury Unlocking Delay                  | 1 month                                                         | 
+| Community Treasury Maximum Unlocking Rate           | 5% of the Community Treasury's current balance per year         |
+| Growth Fund Release Schedule                        | 100 TRVL per new property                                       |
+| Minimum booking value to qualify as a new property  | 2000 TRVL                                                       |
 
 The TRVL Foundation shall consult TRVL holders regarding updates of these parameters. 
 For now, discussions about such updates should occur in [Discussions/Parameters-Updates](https://github.com/orgs/NiteProtocol/discussions/categories/parameter-updates).
